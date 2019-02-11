@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фитнес помощник</string>
+    <string name="text1">Заполните все поля для расчета сжигаемых каллорий за сутки, а также во время силовых упражнений и аэробных.</string>
+    <string name="eyrs">Возраст</string>
+    <string name="btn">Расчитать</string>
+    <string name="ves">Вес</string>
+    <string name="rost">Рост</string>
+    <string name="vesInventar">Вес (инвентарь):</string>
+    <string name="kolPod">Количество подъемов:</string>
+
+    <string name="title_activity_result">Результат</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#f30911</color>
+    <color name="colorAccent">#40c4ff</color>
+    <color name="tabsScrollColor">#004D40</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="button_grey">#757575</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
